@@ -23,6 +23,7 @@ algorithms namely :-
 1. Logistic regression
 2. RandomForest Classifier
 3. XGBoost 
+                                  
                                   <b> Conclusion </b>
  - After training and testing all the three algorithms, random Forest algorith had the highest accuracy of 86% changed parameters and it increased to 87%.
  i built my model and it made its first prediction
