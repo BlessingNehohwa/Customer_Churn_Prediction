@@ -5,7 +5,10 @@
 
 Using the Bank_customer  dataset to predict customer churn. The data set has following features:- 
 - RowNumber  
-- CustomerId', 'Surname', 'CreditScore', 'Geography',
+- CustomerId 
+- Surname
+- CreditScore
+- Geography',
 'Gender', 'Age', 'Tenure', 'Balance', 'NumOfProducts', 'HasCrCard',
 'IsActiveMember', 'EstimatedSalary', 'Exited'
 
