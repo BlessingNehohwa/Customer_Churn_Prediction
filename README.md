@@ -1,7 +1,7 @@
 # Customer_Churn_Rate_Prediction
 
 
-Business problem: 
+<b> Business problem:</b> 
 Using the Bank_customer  dataset to predict customer churn. The data set has following features RowNumber', 'CustomerId', 'Surname', 'CreditScore', 'Geography',
 'Gender', 'Age', 'Tenure', 'Balance', 'NumOfProducts', 'HasCrCard',
 'IsActiveMember', 'EstimatedSalary', 'Exited'
