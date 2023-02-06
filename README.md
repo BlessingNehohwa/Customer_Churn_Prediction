@@ -1,7 +1,7 @@
 # Customer_Churn_Rate_Prediction
 
 Click: Click Link :
-**[Customer Churn Prediction](
+**[Customer Churn Prediction](https://github.com/BlessingNehohwa/Customer_Churn_Prediction/blob/main/Bank%20Customer%20Churn%20prediction%20.ipynb
 ).**
 
 
