@@ -8,6 +8,6 @@ Using the Bank_customer  dataset to predict customer churn. The dtata set has fo
 
 We need to determine whether a customer will exit or not? Hence this is a classification problem therefore will use classification
 algorithms namely :-
-1. logistic regression
+1. Logistic regression
 2. RandomForest Classifier
 3. XGBoost 
